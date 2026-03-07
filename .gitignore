@@ -7,8 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
-build/
+.Pythsadsad
 develop-eggs/
 dist/
 downloads/
