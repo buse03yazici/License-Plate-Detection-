@@ -1,0 +1,17 @@
+<annotation>
+    <filename>3erfetghyju.jpg</filename>
+    <size>
+        <width>736</width>
+        <height>1307</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>285</xmin>
+            <ymin>865</ymin>
+            <xmax>481</xmax>
+            <ymax>904</ymax>
+        </bndbox>
+    </object>
+</annotation>

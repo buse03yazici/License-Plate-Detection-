@@ -1,0 +1,17 @@
+<annotation>
+    <filename>refdtgfhyg.jpg</filename>
+    <size>
+        <width>540</width>
+        <height>540</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>224</xmin>
+            <ymin>411</ymin>
+            <xmax>333</xmax>
+            <ymax>458</ymax>
+        </bndbox>
+    </object>
+</annotation>

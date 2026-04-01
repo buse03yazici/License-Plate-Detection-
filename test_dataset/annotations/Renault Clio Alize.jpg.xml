@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Renault Clio Alize.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>736</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>252</xmin>
+            <ymin>483</ymin>
+            <xmax>451</xmax>
+            <ymax>522</ymax>
+        </bndbox>
+    </object>
+</annotation>

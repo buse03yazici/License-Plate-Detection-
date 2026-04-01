@@ -1,0 +1,17 @@
+<annotation>
+    <filename>IMG-20220712-WA0004-630D26D60CF36-530_393.jpg</filename>
+    <size>
+        <width>530</width>
+        <height>393</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>343</xmin>
+            <ymin>253</ymin>
+            <xmax>441</xmax>
+            <ymax>291</ymax>
+        </bndbox>
+    </object>
+</annotation>

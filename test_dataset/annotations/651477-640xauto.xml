@@ -1,0 +1,17 @@
+<annotation>
+    <filename>651477-640xauto.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>209</xmin>
+            <ymin>160</ymin>
+            <xmax>353</xmax>
+            <ymax>186</ymax>
+        </bndbox>
+    </object>
+</annotation>

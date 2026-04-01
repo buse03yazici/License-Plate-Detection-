@@ -1,0 +1,17 @@
+<annotation>
+    <filename>dfgdfg.jpg</filename>
+    <size>
+        <width>736</width>
+        <height>645</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>275</xmin>
+            <ymin>382</ymin>
+            <xmax>462</xmax>
+            <ymax>421</ymax>
+        </bndbox>
+    </object>
+</annotation>

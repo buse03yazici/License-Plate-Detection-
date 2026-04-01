@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Renault Talisman.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>981</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>273</xmin>
+            <ymin>434</ymin>
+            <xmax>454</xmax>
+            <ymax>473</ymax>
+        </bndbox>
+    </object>
+</annotation>

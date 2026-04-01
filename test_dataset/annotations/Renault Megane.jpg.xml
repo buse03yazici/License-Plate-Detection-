@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Renault Megane.jpg.jpeg</filename>
+    <size>
+        <width>681</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>462</ymin>
+            <xmax>428</xmax>
+            <ymax>513</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Kaymakam-Makam-Arac-Plakasi.jpg</filename>
+    <size>
+        <width>700</width>
+        <height>496</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>194</xmin>
+            <ymin>252</ymin>
+            <xmax>419</xmax>
+            <ymax>310</ymax>
+        </bndbox>
+    </object>
+</annotation>

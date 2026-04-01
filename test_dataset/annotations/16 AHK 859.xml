@@ -1,0 +1,17 @@
+<annotation>
+    <filename>16 AHK 859.jpg</filename>
+    <size>
+        <width>736</width>
+        <height>981</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>251</xmin>
+            <ymin>805</ymin>
+            <xmax>476</xmax>
+            <ymax>854</ymax>
+        </bndbox>
+    </object>
+</annotation>

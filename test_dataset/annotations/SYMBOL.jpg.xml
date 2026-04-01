@@ -1,0 +1,17 @@
+<annotation>
+    <filename>SYMBOL.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>981</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>252</xmin>
+            <ymin>757</ymin>
+            <xmax>486</xmax>
+            <ymax>814</ymax>
+        </bndbox>
+    </object>
+</annotation>

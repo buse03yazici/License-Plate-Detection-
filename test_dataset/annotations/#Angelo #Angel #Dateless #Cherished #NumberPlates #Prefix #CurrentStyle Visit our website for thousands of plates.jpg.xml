@@ -1,0 +1,17 @@
+<annotation>
+    <filename>#Angelo #Angel #Dateless #Cherished #NumberPlates #Prefix #CurrentStyle Visit our website for thousands of plates.jpg.jpeg</filename>
+    <size>
+        <width>591</width>
+        <height>359</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>214</xmin>
+            <ymin>256</ymin>
+            <xmax>371</xmax>
+            <ymax>286</ymax>
+        </bndbox>
+    </object>
+</annotation>

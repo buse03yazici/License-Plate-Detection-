@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Egea.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>820</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>222</xmin>
+            <ymin>640</ymin>
+            <xmax>477</xmax>
+            <ymax>693</ymax>
+        </bndbox>
+    </object>
+</annotation>

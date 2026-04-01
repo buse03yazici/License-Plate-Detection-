@@ -1,0 +1,17 @@
+<annotation>
+    <filename>Symbol wallpaper.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>981</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>279</xmin>
+            <ymin>658</ymin>
+            <xmax>462</xmax>
+            <ymax>708</ymax>
+        </bndbox>
+    </object>
+</annotation>

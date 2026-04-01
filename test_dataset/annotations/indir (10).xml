@@ -1,0 +1,17 @@
+<annotation>
+    <filename>indir (10).jpg</filename>
+    <size>
+        <width>736</width>
+        <height>1308</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>286</xmin>
+            <ymin>949</ymin>
+            <xmax>462</xmax>
+            <ymax>994</ymax>
+        </bndbox>
+    </object>
+</annotation>

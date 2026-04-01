@@ -1,0 +1,17 @@
+<annotation>
+    <filename>You Lost!.jpg.jpeg</filename>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>206</xmin>
+            <ymin>286</ymin>
+            <xmax>437</xmax>
+            <ymax>343</ymax>
+        </bndbox>
+    </object>
+</annotation>

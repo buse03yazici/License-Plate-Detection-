@@ -1,0 +1,17 @@
+<annotation>
+    <filename>e4299f35-8947-47c7-b5d2-6451c6f06fc2_image_for_silan_34341580_800x600.jpg</filename>
+    <size>
+        <width>450</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>164</xmin>
+            <ymin>445</ymin>
+            <xmax>291</xmax>
+            <ymax>480</ymax>
+        </bndbox>
+    </object>
+</annotation>

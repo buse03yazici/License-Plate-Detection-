@@ -1,0 +1,17 @@
+<annotation>
+    <filename>eretyh.jpg</filename>
+    <size>
+        <width>736</width>
+        <height>736</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>243</xmin>
+            <ymin>586</ymin>
+            <xmax>482</xmax>
+            <ymax>635</ymax>
+        </bndbox>
+    </object>
+</annotation>

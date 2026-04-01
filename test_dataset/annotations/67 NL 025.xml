@@ -1,0 +1,17 @@
+<annotation>
+    <filename>67 NL 025.jpg</filename>
+    <size>
+        <width>736</width>
+        <height>595</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>332</xmin>
+            <ymin>394</ymin>
+            <xmax>534</xmax>
+            <ymax>452</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,17 @@
+<annotation>
+    <filename>landscape and passat.jpg.jpeg</filename>
+    <size>
+        <width>736</width>
+        <height>1308</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>269</xmin>
+            <ymin>822</ymin>
+            <xmax>465</xmax>
+            <ymax>882</ymax>
+        </bndbox>
+    </object>
+</annotation>

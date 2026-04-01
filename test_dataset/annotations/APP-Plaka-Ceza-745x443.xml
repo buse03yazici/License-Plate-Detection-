@@ -1,0 +1,17 @@
+<annotation>
+    <filename>APP-Plaka-Ceza-745x443.jpg</filename>
+    <size>
+        <width>745</width>
+        <height>443</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>plate</name>
+        <bndbox>
+            <xmin>410</xmin>
+            <ymin>174</ymin>
+            <xmax>634</xmax>
+            <ymax>226</ymax>
+        </bndbox>
+    </object>
+</annotation>
